@@ -1,2 +1,0 @@
-# glogit
-Dmitrii Ivanov
